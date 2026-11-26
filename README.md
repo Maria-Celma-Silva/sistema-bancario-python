@@ -1,4 +1,4 @@
-# sistema-bancario-python
+# Sistema-Bancario-Python
 
 Projeto prático desenvolvido para exercitar lógica de programação e conceitos de Programação Orientada a Objetos (POO) com Python.
 Sobre o projeto
