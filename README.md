@@ -55,6 +55,6 @@ Esta é uma aplicação educacional: os dados ficam apenas na memória e são ap
 - Criar testes automatizados.
 - Adicionar transferências entre contas.
 - Criar uma interface web ou gráfica.
-- 
+
 Objetivo de aprendizagem
 Praticar a construção de uma aplicação em Python, organizar o código em classes, aplicar regras de negócio e utilizar Git e GitHub para documentar e compartilhar a evolução do projeto.
