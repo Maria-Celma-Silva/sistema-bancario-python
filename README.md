@@ -14,7 +14,7 @@ O Banco Python é uma aplicação de terminal que permite cadastrar clientes, ab
 - Verificação de senha para operações da conta.
 - Armazenamento de hash da senha com salt, sem guardar a senha original.
   
-Tecnologias
+**Tecnologias e Conceitos**
 - Python 3.10 ou superior.
 - Programação Orientada a Objetos (classes, objetos e métodos).
 - Dicionários e listas para organizar os dados.
@@ -55,5 +55,6 @@ Esta é uma aplicação educacional: os dados ficam apenas na memória e são ap
 - Criar testes automatizados.
 - Adicionar transferências entre contas.
 - Criar uma interface web ou gráfica.
+- 
 Objetivo de aprendizagem
 Praticar a construção de uma aplicação em Python, organizar o código em classes, aplicar regras de negócio e utilizar Git e GitHub para documentar e compartilhar a evolução do projeto.
