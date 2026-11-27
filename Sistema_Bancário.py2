@@ -1,1 +1,42 @@
+menu = """
+Seja bem-vindo ao Sistema Bancário!
+
+[1] Criar conta
+[2] Acessar conta
+[3] Depositar
+[4] Sacar
+[5] Extrato
+[6] Sair
+
+=> """
+
+saldo = 0
+limite = 500
+extrato = ""
+LIMITE_SAQUE = 3
+
+while True:
+    opcao = input(menu)
+
+    if opcao == "1":
+        print("Conta criada com sucesso!")
+
+    elif opcao == "2":
+        print("Acessando a conta...")
+
+    elif opcao == "3":
+        print("Depósito")
+
+    elif opcao == "4":
+        print("Saque")
+
+    elif opcao == "5":
+        print("Extrato")
+
+    elif opcao == "6":
+        print("Saindo do sistema...")
+        break
+
+    else:
+        print("Opção inválida! Tente novamente.")
 
