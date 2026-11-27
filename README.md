@@ -14,15 +14,6 @@ O Banco Python é uma aplicação de terminal que permite cadastrar clientes, ab
 - Verificação de senha para operações da conta.
 - Armazenamento de hash da senha com salt, sem guardar a senha original.
   
-# Tecnologias & Conceitos #
-- Python 3.10 ou superior.
-- Programação Orientada a Objetos (classes, objetos e métodos).
-- Dicionários e listas para organizar os dados.
-- Estruturas condicionais e de repetição.
-- Funções e tratamento de entradas inválidas.
-- Decimal para operações com valores monetários.
-- hashlib e secrets para demonstrar armazenamento de senha com hash e salt.
-  
 # Como executar
 1. Instale o Python 3.10 ou superior.
 2. Baixe ou clone este repositório.
